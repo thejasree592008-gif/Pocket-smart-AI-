@@ -1,0 +1,28 @@
+Project Title
+Pocket Smart AI – Smart Budget & Recommendation Assistant
+
+## Development Process
+
+The Pocket Smart AI project is developed using Python.
+
+### Development Steps
+
+1. Create the project structure.
+2. Collect user income details.
+3. Collect daily expense details.
+4. Categorize expenses.
+5. Calculate total expenses.
+6. Calculate remaining budget.
+7. Analyze spending patterns.
+8. Generate AI-based recommendations.
+9. Display the final result to the user.
+
+## Technologies Used
+
+- Python
+- Artificial Intelligence
+- Data Analysis
+- GitHub
+
+## Development Goal
+The goal is to develop a simple and intelligent budget assistant that can help users understand and manage their spending.
