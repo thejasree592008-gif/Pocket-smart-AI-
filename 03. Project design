@@ -1,0 +1,31 @@
+Project Title
+Pocket Smart AI – Smart Budget & Recommendation Assistant
+
+## Main Modules
+
+1. User Input Module
+2. Income Management Module
+3. Expense Management Module
+4. Budget Management Module
+5. Expense Analysis Module
+6. AI Recommendation Module
+7. Report and Result Module
+
+## System Flow
+
+User Input
+     ↓
+Income & Expense Data
+     ↓
+Data Processing
+     ↓
+Budget Calculation
+     ↓
+Expense Analysis
+     ↓
+AI Recommendation
+     ↓
+Final Result
+
+## Design Objective
+The system is designed to provide a simple and user-friendly method for managing personal budgets and understanding spending patterns.
