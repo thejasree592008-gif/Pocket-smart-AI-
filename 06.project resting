@@ -1,0 +1,25 @@
+Project Title
+Pocket Smart AI – Smart Budget & Recommendation Assistant
+
+## Testing Methods
+
+### 1. Input Testing
+Check whether the system accepts valid income and expense details.
+
+### 2. Calculation Testing
+Check total expenses, remaining balance, and budget calculations.
+
+### 3. Category Testing
+Check whether expenses are correctly classified into categories.
+
+### 4. Budget Testing
+Check the system when expenses are within and above the budget limit.
+
+### 5. Recommendation Testing
+Check whether the system provides suitable recommendations based on spending data.
+
+### 6. Error Testing
+Check invalid or empty inputs and ensure the system handles them correctly.
+
+## Testing Result
+The system is tested with different inputs to verify that the budget calculations, expense analysis, and recommendations work correctly.
