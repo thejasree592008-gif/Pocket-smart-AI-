@@ -1,0 +1,23 @@
+Project Title
+Pocket Smart AI – Smart Budget & Recommendation Assistant
+
+## Functional Requirements
+- User can enter income details.
+- User can enter daily expenses.
+- User can select expense categories.
+- User can set a monthly budget.
+- System calculates total expenses.
+- System calculates the remaining balance.
+- System analyzes spending patterns.
+- System provides budget recommendations.
+
+## Software Requirements
+- Python
+- Python IDE / VS Code
+- GitHub
+- Required Python libraries
+
+## Hardware Requirements
+- Computer or Laptop
+- Minimum 4 GB RAM
+- Internet connection
